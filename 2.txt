@@ -1,3 +1,4 @@
 <html>
+<centre>lets study</centre>
 <head><centre>DevOps Curriculam,/centre></head>
 </html>
